@@ -33,5 +33,5 @@ function ramdomCard() {
 }
 
 function Timer() {
-    setTimeout("ramdomCard(); Timer()", 10000);
+    setTimeout("ramdomCard(); Timer()", 200);
 }
