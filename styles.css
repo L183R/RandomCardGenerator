@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+}
+
+div {
+    font-size: 60px;
+    padding: 5px 5px 5px 5px
+}
+
+.card {
+    background-color: white;
+    width: 150px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottom {
+    rotate: -180deg;
+}
+
+.number {
+    text-align: center;
+    font-size: 70px;
+}
+
+button {
+    margin: auto;
+}
